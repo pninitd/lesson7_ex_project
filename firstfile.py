@@ -1,3 +1,3 @@
 print('first file')
-print('change on new branch, adding text')
-print('change2 on new branch')
+print('try to create a conflict')
+print('change2 on new bragnch')
